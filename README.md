@@ -16,7 +16,7 @@ $ npm install && bower install
 $ gulp serve
 ```
 =======
-# Mathero_Algorithm 
+# GREEN 
 
 # Nama Kelompok
 > Anggota Kelompok:
@@ -24,5 +24,3 @@ $ gulp serve
  > 1. Muhammad Shufi (131113662)
  > 2. Muhtadin       (131113573) 
  
-
->>>>>>> db83c080935bb5c28d7fdf1fcc7265c5d2cc1e7c
