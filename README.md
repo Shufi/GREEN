@@ -17,8 +17,6 @@ $ gulp serve
 ```
 =======
 # GREEN 
-
-# Nama Kelompok
 > Anggota Kelompok:
  
  > 1. Muhammad Shufi (131113662)
